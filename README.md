@@ -1,5 +1,9 @@
 # curso_nodejs
 
+## Indice
+
+1. [Entorno](#entorno)
+
 ## Entorno
 
 ### Preinstalación

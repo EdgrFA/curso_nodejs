@@ -16,9 +16,7 @@ o en Windows descargar instalable en su página oficial [Node JS](https://nodejs
 2. Instalar visual studio code
 
 descargar instalable  en https://code.visualstudio.com/#alt-downloads
-
-####Configuración
-  Agregar las siguientes extensiones:
+Agregar las siguientes extensiones:
   - Docker
   - JavaScript (ES6) code snippets
   - Path Intellisense
